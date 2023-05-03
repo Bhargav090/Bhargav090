@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhargav090&label=Profile%20views&color=0e75b6&style=flat" alt="Bhargav090" /> </p>
 
-- ⚙️ My Personal Porfolio --> [My Portfolio](https://bhargav090.github.io/My_Portfolio/)
+- ⚙️ My Personal Portfolio --> [My Portfolio](https://bhargav090.github.io/My_Portfolio/)
 
 - ⚙️ Developed a website to share interesting facts and world news to users --> [DevoGlobe](https://devoglobe.netlify.app/)
 
