@@ -5,7 +5,7 @@
 
 - ⚙️ My Personal Porfolio --> [My Portfolio](https://bhargav090.github.io/My_Portfolio/)
 
-- ⚙️ Developeed a website to share interesting facts and world news to users --> [DevoGlobe](https://devoglobe.netlify.app/)
+- ⚙️ Developed a website to share interesting facts and world news to users --> [DevoGlobe](https://devoglobe.netlify.app/)
 
 - ⚙️Developed a photography website to showcase my photography skills there you will have the beautiful clicks of nature and some rare pics --> [Photography Page](https://natureview2.netlify.app/)
 
