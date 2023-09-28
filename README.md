@@ -5,7 +5,7 @@
 
 - ⚙️ My Personal Portfolio --> [My Portfolio](https://bhargav090.github.io/My_Portfolio/)
 
-- ⚙️ Developed an E-commerce website for a client where users can buy Polaroid pictures easily --> [DevoGlobe](https://mpolaroidscom.netlify.app/)
+- ⚙️ Developed an E-commerce website for a client where users can buy Polaroid pictures easily --> [Mpolaroid](https://mpolaroidscom.netlify.app/)
 
 - ⚙️Developed a photography website to showcase my photography skills there you will have the beautiful clicks of nature and some rare pics --> [Photography Page](https://natureview2.netlify.app/)
 
