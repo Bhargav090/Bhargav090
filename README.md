@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Bhargav Pathivada</h1>
-<h3 align="center">A passionate frontend developer loves to develop creative websites and apps..</h3>
+<h3 align="center">A passionate frontend developer who loves to develop creative websites and apps..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhargav090&label=Profile%20views&color=0e75b6&style=flat" alt="Bhargav090" /> </p>
 
 - ⚙️ My Personal Portfolio --> [My Portfolio](https://bhargav090.github.io/My_Portfolio/)
 
-- ⚙️ Developed a website to share interesting facts and world news to users --> [DevoGlobe](https://devoglobe.netlify.app/)
+- ⚙️ Developed an E-commerce website for a client where users can buy Polaroid pictures easily --> [DevoGlobe](https://mpolaroidscom.netlify.app/)
 
 - ⚙️Developed a photography website to showcase my photography skills there you will have the beautiful clicks of nature and some rare pics --> [Photography Page](https://natureview2.netlify.app/)
 
