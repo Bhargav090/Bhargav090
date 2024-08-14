@@ -42,5 +42,14 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 
+ <a href="" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a>
+
+ <a href="" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="40" height="40"/> </a>
+
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+
  </p>
 
