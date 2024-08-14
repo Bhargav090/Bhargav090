@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bhargav Pathivada</h1>
-<h3 align="center">A committed web developer with a strong enthusiasm for crafting unique and dynamic websites and apps.</h3>
+<h4 align="center">A committed web developer with a strong enthusiasm for crafting unique and dynamic websites and apps.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhargav090&label=Profile%20views&color=0e75b6&style=flat" alt="Bhargav090" /> </p>
 
